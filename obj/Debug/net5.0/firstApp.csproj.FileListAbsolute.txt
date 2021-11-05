@@ -1,0 +1,129 @@
+E:\firstApp\bin\Debug\net5.0\appsettings.Development.json
+E:\firstApp\bin\Debug\net5.0\appsettings.json
+E:\firstApp\bin\Debug\net5.0\firstApp.exe
+E:\firstApp\bin\Debug\net5.0\firstApp.deps.json
+E:\firstApp\bin\Debug\net5.0\firstApp.runtimeconfig.json
+E:\firstApp\bin\Debug\net5.0\firstApp.runtimeconfig.dev.json
+E:\firstApp\bin\Debug\net5.0\firstApp.dll
+E:\firstApp\bin\Debug\net5.0\ref\firstApp.dll
+E:\firstApp\bin\Debug\net5.0\firstApp.pdb
+E:\firstApp\bin\Debug\net5.0\firstApp.Views.dll
+E:\firstApp\bin\Debug\net5.0\firstApp.Views.pdb
+E:\firstApp\obj\Debug\net5.0\firstApp.csprojAssemblyReference.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\firstApp\obj\Debug\net5.0\firstApp.AssemblyInfoInputs.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.AssemblyInfo.cs
+E:\firstApp\obj\Debug\net5.0\firstApp.csproj.CoreCompileInputs.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.MvcApplicationPartsAssemblyInfo.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.RazorAssemblyInfo.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.RazorAssemblyInfo.cs
+E:\firstApp\obj\Debug\net5.0\staticwebassets\firstApp.StaticWebAssets.Manifest.cache
+E:\firstApp\obj\Debug\net5.0\staticwebassets\firstApp.StaticWebAssets.xml
+E:\firstApp\obj\Debug\net5.0\scopedcss\bundle\firstApp.styles.css
+E:\firstApp\obj\Debug\net5.0\firstApp.TagHelpers.input.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.TagHelpers.output.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.RazorCoreGenerate.cache
+E:\firstApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\firstApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\firstApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\firstApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\firstApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\firstApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\firstApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\firstApp\obj\Debug\net5.0\firstApp.RazorTargetAssemblyInfo.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.RazorTargetAssemblyInfo.cs
+E:\firstApp\obj\Debug\net5.0\firstApp.Views.pdb
+E:\firstApp\obj\Debug\net5.0\firstApp.dll
+E:\firstApp\obj\Debug\net5.0\ref\firstApp.dll
+E:\firstApp\obj\Debug\net5.0\firstApp.pdb
+E:\firstApp\obj\Debug\net5.0\firstApp.genruntimeconfig.cache
+E:\firstApp\obj\Debug\net5.0\firstApp.csproj.CopyComplete
+E:\firstApp\obj\Debug\net5.0\Razor\Views\Personal\Index.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\firstApp.exe
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\firstApp.deps.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\firstApp.runtimeconfig.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\firstApp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\firstApp.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\ref\firstApp.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\firstApp.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\firstApp.Views.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\bin\Debug\net5.0\firstApp.Views.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\staticwebassets\firstApp.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\staticwebassets\firstApp.StaticWebAssets.xml
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\scopedcss\bundle\firstApp.styles.css
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.TagHelpers.input.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.TagHelpers.output.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\Personal\Index.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\prueba\Index.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.Views.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\ref\firstApp.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC-master\obj\Debug\net5.0\firstApp.csproj.CopyComplete
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\firstApp.exe
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\firstApp.deps.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\firstApp.runtimeconfig.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\firstApp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\firstApp.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\ref\firstApp.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\firstApp.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\firstApp.Views.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\firstApp.Views.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\staticwebassets\firstApp.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\staticwebassets\firstApp.StaticWebAssets.xml
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\scopedcss\bundle\firstApp.styles.css
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.TagHelpers.input.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.TagHelpers.output.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\Personal\Index.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\prueba\Index.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.Views.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\ref\firstApp.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\firstApp.csproj.CopyComplete
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\startbootstrap-sb-admin-2-gh-pages\package-lock.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\startbootstrap-sb-admin-2-gh-pages\package.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\bin\Debug\net5.0\startbootstrap-sb-admin-2-gh-pages\vendor\fontawesome-free\package.json
+C:\Users\HP\Desktop\U\programacion computacional 1\mvc\firstAppMVC\obj\Debug\net5.0\Razor\Views\Shared\_Periodico.cshtml.g.cs
